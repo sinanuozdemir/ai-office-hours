@@ -1,4 +1,4 @@
-streamlit==1.2.0
+streamlit==1.0.4
 openai==0.27.0
 datasets==1.16.0
 supabase==0.1.0
